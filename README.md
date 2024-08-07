@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/f56cd446-9d63-4288-aa2e-d607c90d85df
 # Impossible-Game
  2D platformer made with unity
 
